@@ -1,0 +1,92 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "International",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesName": "Test Series 2024",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 10001,
+                  "matchFormat": "TEST",
+                  "status": "Day 2: Stumps",
+                  "team1": { "teamId": 1, "teamName": "India", "teamSName": "IND" },
+                  "team2": { "teamId": 2, "teamName": "Australia", "teamSName": "AUS" },
+                  "venueInfo": { "ground": "Eden Gardens", "city": "Kolkata" }
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": { "runs": 320, "wickets": 6, "overs": 90 }
+                  },
+                  "team2Score": {
+                    "inngs1": { "runs": 295, "wickets": 8, "overs": 88 }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 10002,
+                  "matchFormat": "TEST",
+                  "status": "Starts tomorrow",
+                  "team1": { "teamId": 3, "teamName": "England", "teamSName": "ENG" },
+                  "team2": { "teamId": 4, "teamName": "New Zealand", "teamSName": "NZ" },
+                  "venueInfo": { "ground": "Lords", "city": "London" }
+                },
+                "matchScore": {
+                  "team1Score": {},
+                  "team2Score": {}
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "League",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesName": "IPL 2024",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 10003,
+                  "matchFormat": "T20",
+                  "status": "Chennai Super Kings won by 4 wickets",
+                  "team1": { "teamId": 5, "teamName": "Chennai Super Kings", "teamSName": "CSK" },
+                  "team2": { "teamId": 6, "teamName": "Mumbai Indians", "teamSName": "MI" },
+                  "venueInfo": { "ground": "M. A. Chidambaram Stadium", "city": "Chennai" }
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": { "runs": 162, "wickets": 7, "overs": 20 }
+                  },
+                  "team2Score": {
+                    "inngs1": { "runs": 164, "wickets": 6, "overs": 19.3 }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 10004,
+                  "matchFormat": "T20",
+                  "status": "Scheduled",
+                  "team1": { "teamId": 7, "teamName": "Royal Challengers Bengaluru", "teamSName": "RCB" },
+                  "team2": { "teamId": 8, "teamName": "Kolkata Knight Riders", "teamSName": "KKR" },
+                  "venueInfo": { "ground": "Chinnaswamy", "city": "Bangalore" }
+                },
+                "matchScore": {
+                  "team1Score": {},
+                  "team2Score": {}
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
