@@ -1,7 +1,6 @@
 ## Live Cricket Match Tracker
 
 A simple web app to show live cricket matches and scorecards using data from API.
-Note: The API calls are limited so use it accordingly.
 
 # Screenshots
 
