@@ -1,6 +1,6 @@
 # Live Cricket Match Tracker
 
-A simple web app to show live cricket matches and scorecards using data from API. 
+A web application that fetches and displays live cricket matches and detailed scorecards using real-time data from the Cricbuzz RapidAPI.
 
 Note: API requests are limited under the free RapidAPI plan.
 
